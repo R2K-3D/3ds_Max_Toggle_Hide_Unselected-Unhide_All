@@ -7,7 +7,7 @@
 
 **Toggle script that assigns 2 operations - Hide Unselected and Unhide All - to one button or hotkey, speeding up workflow.**  
 Works correctly in **Editable Poly** and **Edit Poly** modes, properly handling vertices (unlike standard 3ds Max functionality).
-<div align="center">
+
 [![GitHub stars](https://img.shields.io/github/stars/R2K-3D/3ds_Max_Toggle_Hide_Unselected-Unhide_All?style=social)](https://github.com/R2K-3D/3ds_Max_Toggle_Hide_Unselected-Unhide_All)
 [![License](https://img.shields.io/github/license/R2K-3D/3ds_Max_Toggle_Hide_Unselected-Unhide_All?style=flat-square)](LICENSE)
 
@@ -97,6 +97,7 @@ text
 
 
 </div>
+
 
 
 
