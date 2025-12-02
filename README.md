@@ -12,6 +12,8 @@
 
 [Installation](#-installation) • [Setup](#-setup) • [Usage](#-usage)
 
+![3dsmax_FXPcxb0Xmp](https://github.com/user-attachments/assets/8b27ae3c-cf9d-442b-bc30-c3bc5248de3b)
+
 
 </div>
 
@@ -90,5 +92,6 @@ This project is licensed under the MIT License — free to use and modify.
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
 
