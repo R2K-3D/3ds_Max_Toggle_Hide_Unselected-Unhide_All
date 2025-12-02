@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 🎯 3ds Max Toggle Hide Unselected / Unhide All
 
@@ -97,6 +97,7 @@ text
 
 
 </div>
+
 
 
 
