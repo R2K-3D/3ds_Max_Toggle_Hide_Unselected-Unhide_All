@@ -12,6 +12,8 @@
 
 [Installation](#-installation) • [Setup](#-setup) • [Usage](#-usage)
 
+![3dsmax_yzxMQBq9TD](https://github.com/user-attachments/assets/0d44fa00-da17-4fe1-a0b5-d1352eb885d8)
+
 </div>
 
 ---
@@ -89,3 +91,4 @@ This project is licensed under the MIT License — free to use and modify.
 ⭐ Star this repo if you find it useful!
 
 </div>
+
