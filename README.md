@@ -1,12 +1,12 @@
-text
 <div align="center">
 
-# 🎯 Toggle Hide Unselected / Unhide All  
+# 🎯 R2K-3D Toggle Hide Unselected / Unhide All
+
 <img src="https://img.shields.io/badge/3ds_Max-2022+-00549F?style=for-the-badge&logo=3ds-max&logoColor=white" alt="3ds Max">  
 <img src="https://img.shields.io/badge/Version-v1.1-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Version">
 
-**One hotkey for two essential modeling actions**  
-*Hide Unselected ↔ Unhide All* for **Editable Poly** and **Edit Poly**
+**Toggle script that assigns 2 operations - Hide Unselected and Unhide All - to one button or hotkey, speeding up workflow.**  
+Works correctly in **Editable Poly** and **Edit Poly** modes, properly handling vertices (unlike standard 3ds Max functionality).
 
 [![GitHub stars](https://img.shields.io/github/stars/R2K-3D/3ds_Max_Toggle_Hide_Unselected-Unhide_All?style=social)](https://github.com/R2K-3D/3ds_Max_Toggle_Hide_Unselected-Unhide_All)
 [![License](https://img.shields.io/github/license/R2K-3D/3ds_Max_Toggle_Hide_Unselected-Unhide_All?style=flat-square)](LICENSE)
@@ -15,31 +15,14 @@ text
 
 ---
 
-## 🚀 **Why use this script?**
-
-Instead of **2 clicks + mouse movement**:
-
-    Select polygons → 2. Right-click → 3. Hide Unselected
-    OR
-
-    Right-click → 2. Unhide All
-
-text
-
-**Just 1 hotkey toggle**:
-
-Alt+H (or any key you choose)
-
-text
-
 ## ✨ **Features**
 
-- ✅ **Works with Editable Poly** (base object)
-- ✅ **Works with Edit Poly** (modifier)
-- ✅ **Polygon (4) & Element (5)** sub-object modes
-- ✅ **Lightning fast** - no lag, pure MaxScript
-- ✅ **Hotkey or toolbar** - your choice
+- ✅ **2-in-1 Toggle** - Hide Unselected ↔ Unhide All on single button
+- ✅ **Editable Poly** + **Edit Poly** (modifier) support
+- ✅ **Polygon (4)** & **Element (5)** sub-object modes
+- ✅ **Proper vertex handling** - synchronized with faces
 - ✅ **Selection preserved** after operations
+- ✅ **Lightning fast** - pure MaxScript
 
 ## 📥 **Installation**
 
@@ -63,15 +46,7 @@ text
 
 Customize → Customize User Interface → Toolbars
 Category: R2K-3D Tools
-Drag "Toggle Hide Unselected/Unhide All Faces" to toolbar
-
-text
-
-## 💾 **Auto-load on Startup** (Optional)
-
-Copy `R2K-3D_Toggle_HideUnselected_UnhideALL.ms` to:
-
-C:\Users[YourName]\AppData\Local\Autodesk\3dsMax\2022 - 64bit\ENU\usermacros\
+Drag "Toggle Hide Unselected/Unhide All Faces"
 
 text
 
@@ -83,13 +58,11 @@ text
 
     Select faces to KEEP VISIBLE
 
-    Press hotkey:
+    Press hotkey/button:
 
-        1st press: Hides unselected faces
+        1st press: Hides unselected faces/vertices
 
-        2nd press: Shows all faces
-
-        Repeat as needed
+        2nd press: Shows all faces/vertices
 
 text
 
