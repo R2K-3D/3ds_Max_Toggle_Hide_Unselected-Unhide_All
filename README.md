@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 R2K-3D Toggle Hide Unselected / Unhide All
+# 🎯 3ds Max Toggle Hide Unselected / Unhide All
 
 <img src="https://img.shields.io/badge/3ds_Max-2022+-00549F?style=for-the-badge&logo=3ds-max&logoColor=white" alt="3ds Max">  
 <img src="https://img.shields.io/badge/Version-v1.1-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Version">
@@ -97,5 +97,6 @@ text
 
 
 </div>
+
 
 
