@@ -14,8 +14,9 @@ Works correctly in **Editable Poly** and **Edit Poly** modes, properly handling 
 </div>
 
 ---
+<div align="center">
 ![3dsmax_FXPcxb0Xmp](https://github.com/user-attachments/assets/6d49f1f9-6376-4350-92d3-2fb2e07a4bc2)
-
+</div>
 ## ✨ **Features**
 
 - ✅ **2-in-1 Toggle** - Hide Unselected ↔ Unhide All on single button
@@ -94,3 +95,4 @@ text
 
 
 </div>
+
