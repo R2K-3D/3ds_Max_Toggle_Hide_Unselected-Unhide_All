@@ -11,7 +11,7 @@ Works correctly in **Editable Poly** and **Edit Poly** modes, properly handling 
 [![GitHub stars](https://img.shields.io/github/stars/R2K-3D/3ds_Max_Toggle_Hide_Unselected-Unhide_All?style=social)](https://github.com/R2K-3D/3ds_Max_Toggle_Hide_Unselected-Unhide_All)
 [![License](https://img.shields.io/github/license/R2K-3D/3ds_Max_Toggle_Hide_Unselected-Unhide_All?style=flat-square)](LICENSE)
 
-</div>
+<div align="center">
 
 ![3dsmax_FXPcxb0Xmp](https://github.com/user-attachments/assets/72a2409b-4164-4df7-9a74-4db93de98fc0)
 
@@ -95,4 +95,5 @@ text
 
 
 </div>
+
 
