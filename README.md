@@ -13,6 +13,8 @@ Works correctly in **Editable Poly** and **Edit Poly** modes, properly handling 
 
 </div>
 
+![3dsmax_FXPcxb0Xmp](https://github.com/user-attachments/assets/72a2409b-4164-4df7-9a74-4db93de98fc0)
+
 ---
 
 ## ✨ **Features**
@@ -90,5 +92,6 @@ text
 **Made with ❤️ by [R2K-3D](https://github.com/R2K-3D)**
 
 [![GitHub followers](https://img.shields.io/github/followers/R2K-3D?style=social)](https://github.com/R2K-3D)
+
 
 </div>
