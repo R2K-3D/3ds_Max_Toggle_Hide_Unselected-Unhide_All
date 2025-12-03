@@ -48,7 +48,7 @@ text
 Customize → Hotkey Editor
 Search: "Toggle Hide Unselected/Unhide All Faces"
 Category: R2K-3D Tools
-Assign: Alt+H (or your choice)
+Assign: Alt+1 (or your choice)
 
 text
 
@@ -103,6 +103,7 @@ text
 
 
 </div>
+
 
 
 
