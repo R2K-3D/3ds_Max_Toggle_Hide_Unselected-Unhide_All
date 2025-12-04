@@ -48,7 +48,7 @@ text
 Customize → Hotkey Editor
 Search: "Toggle Hide Unselected/Unhide All Faces"
 Category: R2K-3D Tools
-Assign: Alt+1 (or your choice) <font color="red"><b>ATTENTION: The hotkey must be unique, otherwise there will be conflicts and unstable operation of the script.</b></font>
+Assign: Alt+1 (or your choice) ✅✅✅<font color="red"><b>ATTENTION: The hotkey must be unique, otherwise there will be conflicts and unstable operation of the script.</b></font>✅✅✅
 
 text
 
@@ -103,6 +103,7 @@ text
 
 
 </div>
+
 
 
 
