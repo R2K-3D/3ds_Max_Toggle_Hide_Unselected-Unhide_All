@@ -64,7 +64,7 @@ Customize → Customize User Interface → Toolbars
 Category: R2K-3D Tools
 Drag "Toggle Hide Unselected/Unhide All Faces"
 
-text
+
 
 ## 🎮 **Usage**
 
@@ -109,6 +109,7 @@ text
 
 
 </div>
+
 
 
 
